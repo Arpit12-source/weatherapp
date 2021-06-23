@@ -1,0 +1,26 @@
+.climate{
+    margin: 10px;
+    
+}
+.climate__form{
+
+}
+.climate__input{
+    width:30vw;
+    height: 5vh;
+    border-radius: 15px;
+    outline: none;
+    background-image: linear-gradient(to right, #9dcbee , #d7e9f7);
+    color: white;
+    border:none;
+}
+.climate__button{
+    width: 5vw;
+    height: 5vh;
+    border-radius: 15px;
+    margin-left: 5px;
+    border: none;
+}
+.climate__button:hover{
+    background-color: rgb(194, 190, 190);
+}
